@@ -1,0 +1,4 @@
+Hello world
+Rust is great
+Hello from Rust
+Learn Rust
